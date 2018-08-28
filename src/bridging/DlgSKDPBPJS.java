@@ -1609,7 +1609,5 @@ private void ChkInputActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRS
         BtnEdit.setEnabled(var.getskdp_bpjs());
     }
 
-    public JTable getTable(){
-        return tbObat;
-    }
+    
 }
